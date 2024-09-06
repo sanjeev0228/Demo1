@@ -1,2 +1,0 @@
-user =abc
-password= 1233
