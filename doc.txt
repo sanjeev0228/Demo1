@@ -4,4 +4,7 @@ take in input from user
 add the values
 
 Process the data
+
+create avatar for user
+features1 
  
