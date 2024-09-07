@@ -5,5 +5,10 @@ add the values
 
 Process the data
 
+<<<<<<< HEAD
 tag and input
+=======
+create avatar for user
+features1 
+>>>>>>> feature1
  
